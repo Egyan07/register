@@ -1,0 +1,11 @@
+{
+  "description": "ComplianceGuard — On-premise SOC 2 compliance for bootstrapped SaaS founders",
+  "repo": "https://github.com/Egyan07/ComplianceGuard",
+  "owner": {
+    "username": "Egyan07",
+    "email": "alexisegyan1232@gmail.com"
+  },
+  "record": {
+    "CNAME": "complianceguard.alexisegyan1232.workers.dev"
+  }
+}
